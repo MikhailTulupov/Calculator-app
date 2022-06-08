@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Number">
+        <item name="android:background">@drawable/ripple_effect</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:textColor">@android:color/primary_text_light</item>
+        <item name="android:textSize">36sp</item>
+    </style>
+</resources>
