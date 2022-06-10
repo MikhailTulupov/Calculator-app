@@ -1,6 +1,5 @@
 package mikhail.tulupov.calculator.model
 
-import java.util.*
 import kotlin.properties.Delegates
 
 /**
